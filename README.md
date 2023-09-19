@@ -8,7 +8,7 @@
 <h2> Data Science </h2>
 
 <h3><a href="https://github.com/Youssefsayed88/Zomato_DS">
-    Zomato bengaluru restaurant:
+    Zomato bengaluru restaurant
 </a></h3>
 
 
