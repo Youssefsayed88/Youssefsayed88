@@ -1,30 +1,83 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">An Indie Game Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">Unity Developer | Multiplayer & VR Enthusiast | AI Explorer</h3>
 
-- 🌱 I’m currently learning **Using Transformers, GPU Programming, Shader programming**
+🎮 Unity developer with 2+ years of experience building **multiplayer systems, VR solutions, and scalable prototypes**.  
+⚡ Skilled at **performance optimization, gameplay architecture, and cross-platform deployment**.  
+🧠 Interested in the intersection of **game development and AI/ML**.  
 
-<h1> Projects </h1>
+---
 
-<h2> Data Science </h2>
+## 🚀 Featured Game Projects  
 
-<h3><a href="https://github.com/Youssefsayed88/Zomato_DS">
-    Zomato bengaluru restaurant
-</a></h3>
+### 🥽 VR-Connect (Unity, VR Training)
+![Gameplay](link-to-gif)  
+- **Role:** VR Developer  
+- **Status:** In Progress  
+- **Description:** VR medical training platform to guide and evaluate healthcare employees in different simulated scenarios.  
+- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp) ![VR](https://img.shields.io/badge/VR-OVR/HVR-blue)
 
+---
 
-<h2> Machine Learning </h2>
+### 🎮 Ballpop! (Arcade Mobile Game)
+![Gameplay](link-to-gif)  
+- **Role:** Solo Developer  
+- **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.SimplyClever.BallPOP)  
+- **Description:** Arcade game where players must stop balls from flooding the screen.  
+- **Highlights:** Published on Google Play, implemented mobile optimization and polish.  
+- **Tech:** Unity, C#  
 
-<h3>Visualizing Novels Using Generative Art "Text-to-Image" (Graduation Project):</h3>
+---
 
-- Researched Generative models.
-- Helped in designing the model pipeline.
-- Gathered a custom image-text pair dataset.
-- Fine-tuned LLM with custom dataset.
-- Creating Text-to-Image Model.
+### 🎖️ Sinai Heroes (FPS Mobile Game)
+![Gameplay](link-to-gif)  
+- **Role:** Unity Developer  
+- **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.GenesisCreations.sinaiheroes&hl=en)  
+- **Description:** FPS mobile game with 1,000+ downloads, where players fight as Egyptian army heroes in military events.  
+- **Tech:** Unity, C#  
 
-<img align="center" alt="Coding" width="900" src="https://i.imgur.com/Cor0kLR.jpg">
+---
 
-- 📫 How to reach me **Youssefsayed88@gmail.com**
+## 📊 Machine Learning / Data Science  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🎨 Visualizing Novels Using Generative AI (Graduation Project)
+![Preview](https://i.imgur.com/Cor0kLR.jpg)  
+- **Role:** Researcher & Developer  
+- Researched generative models, created custom dataset pipeline, fine-tuned a text-to-image model.  
+- **Tech:** Python, PyTorch, HuggingFace Transformers  
+
+### 🍽️ Zomato Bengaluru Restaurant Analysis
+- Data cleaning, exploratory analysis, and visualization.  
+- **Tech:** Pandas, Seaborn, Scikit-learn  
+
+---
+
+## 🛠 Skills  
+
+**Game Development**  
+![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) 
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
+![VR](https://img.shields.io/badge/VR-OVR/HVR-blue)
+![Shaders](https://img.shields.io/badge/Shader-Graph-purple)
+
+**AI/ML**  
+![Python](https://img.shields.io/badge/Python-Data%20Science-yellow?logo=python)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange?logo=tensorflow)
+
+**Tools & Services**  
+![Git](https://img.shields.io/badge/Version-Git-red?logo=git) 
+![Firebase](https://img.shields.io/badge/Cloud-Firebase-yellow?logo=firebase) 
+![Playfab](https://img.shields.io/badge/Backend-Playfab-blue)
+![Profiler](https://img.shields.io/badge/Unity-Profiler-lightgrey)
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: **youssefsayed88@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-759380204/)  
+- 🎮 [Itch.io](https://mr34.itch.io/)  
+- 🕹️ [Google Play Portfolio](https://play.google.com/store/apps/dev?id=xxx)  
+- 💻 [GitHub](https://github.com/Youssefsayed88)  
+
+---
