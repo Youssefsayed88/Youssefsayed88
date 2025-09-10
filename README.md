@@ -10,7 +10,7 @@
 ## 🚀 Featured Game Projects  
 
 ### 🥽 VR-Connect (Unity, VR Training)
-![Gameplay](link-to-gif)  
+
 - **Role:** VR Developer  
 - **Status:** In Progress  
 - **Description:** VR medical training platform to guide and evaluate healthcare employees in different simulated scenarios.  
@@ -19,7 +19,7 @@
 ---
 
 ### 🎮 Ballpop! (Arcade Mobile Game)
-![Gameplay](link-to-gif)  
+ 
 - **Role:** Solo Developer  
 - **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.SimplyClever.BallPOP)  
 - **Description:** Arcade game where players must stop balls from flooding the screen.  
@@ -29,7 +29,7 @@
 ---
 
 ### 🎖️ Sinai Heroes (FPS Mobile Game)
-![Gameplay](link-to-gif)  
+![sinai](https://github.com/user-attachments/assets/499c31ed-5b44-4087-8f70-af9e50ea2077)  
 - **Role:** Unity Developer  
 - **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.GenesisCreations.sinaiheroes&hl=en)  
 - **Description:** FPS mobile game with 1,000+ downloads, where players fight as Egyptian army heroes in military events.  
