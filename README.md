@@ -24,7 +24,7 @@
 - **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.SimplyClever.BallPOP)  
 - **Description:** Arcade game where players must stop balls from flooding the screen.  
 - **Highlights:** Published on Google Play, implemented mobile optimization and polish.  
-- **Tech:** Unity, C#  
+- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
 
 ---
 
@@ -33,7 +33,7 @@
 - **Role:** Unity Developer  
 - **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.GenesisCreations.sinaiheroes&hl=en)  
 - **Description:** FPS mobile game with 1,000+ downloads, where players fight as Egyptian army heroes in military events.  
-- **Tech:** Unity, C#  
+- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
 
 ---
 
