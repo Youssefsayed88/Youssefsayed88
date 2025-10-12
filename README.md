@@ -28,6 +28,9 @@
 ---
 
 ### 🎖️ Biohazard Breakout (Shooter Survival Game)
+<img width="1371" height="763" alt="image" src="https://github.com/user-attachments/assets/01f4c205-5e12-4bcf-91a5-81660c98b40c" />
+<img width="1592" height="877" alt="image" src="https://github.com/user-attachments/assets/887a56af-00ff-49ac-94ab-5c39106c232a" />
+
 - **Role:** Unity Developer
 - **Status:** Canceled
 - **Description:** Multiplayer Cooperative Experience with Hidden Impostor Mechanic Developed a multiplayer shooter survival game featuring a unique twist where one player secretly acts as an impostor. Players must collaborate to solve puzzles and survive, while managing tension and mistrust within the team. Focused on team-based gameplay, dynamic objectives, and social deception mechanics to enhance player engagement.
