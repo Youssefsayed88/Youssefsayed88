@@ -36,6 +36,7 @@
 ---
 
 ### 🎖️ Digito (Digital twin)
+![digito](https://github.com/user-attachments/assets/a318bfb8-af4e-48dd-a602-ab8c766dd5ef)
 - **Role:** Unity Developer
 - **Status:** Postponed
 - **Description:** Digital twin of a real-world restaurant, allowing users to view, interact with, and access real-time data and objects virtually. Implemented systems for virtual-physical synchronization, enabling seamless monitoring and control of real-world elements through an immersive 3D environment.
@@ -44,7 +45,6 @@
 ---
 
 ### 🎮 Ballpop! (Arcade Mobile Game)
- 
 - **Role:** Solo Developer  
 - **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.SimplyClever.BallPOP)  
 - **Description:** Arcade game where players must stop balls from flooding the screen.  
