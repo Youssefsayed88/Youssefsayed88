@@ -10,11 +10,36 @@
 ## 🚀 Featured Game Projects  
 
 ### 🥽 VR-Connect (Unity, VR Training)
-
+![vrc](https://github.com/user-attachments/assets/db4225f7-c638-4470-b7b6-7359fab5a0b2)  
 - **Role:** VR Developer  
-- **Status:** In Progress  
-- **Description:** VR medical training platform to guide and evaluate healthcare employees in different simulated scenarios.  
+- **Status:** Released
+- **Description:** virtual reality training simulator designed to train, guide, and evaluate medical staff in real-world scenarios such as cleaning procedures and compliance with medical standards. Focused on realistic interactions, performance evaluation systems, and immersive guidance mechanics to enhance learning effectiveness and ensure adherence to professional protocols.
 - **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp) ![VR](https://img.shields.io/badge/VR-OVR/HVR-blue)
+
+---
+
+### 🎖️ Sinai Heroes (FPS Mobile Game)
+![sinai](https://github.com/user-attachments/assets/499c31ed-5b44-4087-8f70-af9e50ea2077)  
+- **Role:** Unity Developer  
+- **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.GenesisCreations.sinaiheroes&hl=en)  
+- **Description:** First-person shooter mobile game where players assume the role of Egyptian army heroes participating in historical military operations in Sinai. Focused on authentic storytelling, optimized mobile performance, and engaging combat mechanics, achieving 50,000+ downloads and positive player feedback.  
+- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
+
+---
+
+### 🎖️ Biohazard Breakout (Shooter Survival Game)
+- **Role:** Unity Developer
+- **Status:** Canceled
+- **Description:** Multiplayer Cooperative Experience with Hidden Impostor Mechanic Developed a multiplayer shooter survival game featuring a unique twist where one player secretly acts as an impostor. Players must collaborate to solve puzzles and survive, while managing tension and mistrust within the team. Focused on team-based gameplay, dynamic objectives, and social deception mechanics to enhance player engagement.
+- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
+
+---
+
+### 🎖️ Digito (Digital twin)
+- **Role:** Unity Developer
+- **Status:** Postponed
+- **Description:** Digital twin of a real-world restaurant, allowing users to view, interact with, and access real-time data and objects virtually. Implemented systems for virtual-physical synchronization, enabling seamless monitoring and control of real-world elements through an immersive 3D environment.
+- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
 
 ---
 
@@ -24,15 +49,6 @@
 - **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.SimplyClever.BallPOP)  
 - **Description:** Arcade game where players must stop balls from flooding the screen.  
 - **Highlights:** Published on Google Play, implemented mobile optimization and polish.  
-- **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
-
----
-
-### 🎖️ Sinai Heroes (FPS Mobile Game)
-![sinai](https://github.com/user-attachments/assets/499c31ed-5b44-4087-8f70-af9e50ea2077)  
-- **Role:** Unity Developer  
-- **Status:** Released [Play Store](https://play.google.com/store/apps/details?id=com.GenesisCreations.sinaiheroes&hl=en)  
-- **Description:** FPS mobile game with 1,000+ downloads, where players fight as Egyptian army heroes in military events.  
 - **Tech:** ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity) ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
 
 ---
