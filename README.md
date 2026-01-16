@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
 <h3 align="center">Unity Developer | Multiplayer & VR Enthusiast | AI Explorer</h3>
 
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: **youssefsayed88@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-759380204/)  
+- 🎮 [Itch.io](https://mr34.itch.io/)  
+
+---
+
 🎮 Unity developer with 2+ years of experience building **multiplayer systems, VR solutions, and scalable prototypes**.  
 ⚡ Skilled at **performance optimization, gameplay architecture, and cross-platform deployment**.  
 🧠 Interested in the intersection of **game development and AI/ML**.  
@@ -87,15 +97,3 @@
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase-yellow?logo=firebase) 
 ![Playfab](https://img.shields.io/badge/Backend-Playfab-blue)
 ![Profiler](https://img.shields.io/badge/Unity-Profiler-lightgrey)
-
----
-
-## 📫 Connect with Me  
-
-- 📧 Email: **youssefsayed88@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-759380204/)  
-- 🎮 [Itch.io](https://mr34.itch.io/)  
-- 🕹️ [Google Play Portfolio](https://play.google.com/store/apps/dev?id=xxx)  
-- 💻 [GitHub](https://github.com/Youssefsayed88)  
-
----
