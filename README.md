@@ -5,9 +5,10 @@
 
 ## 📫 Connect with Me  
 
-- 📧 Email: **youssefsayed88@gmail.com**  
+- 📧 **youssefsayed88@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-759380204/)  
-- 🎮 [Itch.io](https://mr34.itch.io/)  
+- 🎮 [Itch.io](https://mr34.itch.io/)
+- 📱 01227248910
 
 ---
 
