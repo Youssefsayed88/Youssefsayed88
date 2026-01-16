@@ -8,7 +8,7 @@
 - 📧 **youssefsayed88@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-759380204/)  
 - 🎮 [Itch.io](https://mr34.itch.io/)
-- 📱 01227248910
+- 📱 +201227248910
 
 ---
 
